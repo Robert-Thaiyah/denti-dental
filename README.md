@@ -31,8 +31,8 @@ The site will undergo changes as I learn new technologies.
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/Robert-Thaiyah/courselo-landing)
-- Live Site URL: [Livesite URL](https://courselo.netlify.app/)
+- Solution URL: [Github Repo](https://github.com/Robert-Thaiyah/denti-dental)
+- Live Site URL: [Livesite URL](https://dental-denti.netlify.app/)
 
 ## My process
 
